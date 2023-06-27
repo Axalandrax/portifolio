@@ -1,0 +1,38 @@
+@media only screen and (min-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+body{
+    margin: 0px;
+    background-image: url("fundo3.png");
+    background-repeat: repeat;
+}
+.titulo{
+    color: rgba(245, 245, 245, 0.500);
+    font-size: 400%;
+    text-align: center;
+}
+p{
+    color: rgb(245, 245, 245);
+    font-size: 150%;
+}
+.b{
+    margin: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+h2{
+    color: white;
+    font-size: 200%;
+    margin-left: 3%;
+}
+.video{
+    margin-left: 30%;
+    margin-right: 50%;
+}
+.video{
+    text-align: center;
+        display: block;
+}
